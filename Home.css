@@ -1,0 +1,20 @@
+/*Everything in here os a code comment*/
+
+body
+{
+   /* background: yellow : */
+    background-image: url("img/wario.jpg");
+    background-repeat: no-repeat ;
+    background-size: cover ;
+}
+
+H4
+{
+    color: Blueviolet ;
+}
+/* Style a specific section on the page that has an ID using a hashtag # */
+#textEnhance
+{
+    color: Blueviolet  ;
+    background-image: linear-gradient(Purple,Yellow);
+}
